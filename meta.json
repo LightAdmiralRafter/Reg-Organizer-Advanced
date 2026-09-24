@@ -1,0 +1,23 @@
+{
+  "repo": "reg-organizer-advanced",
+  "product": "Reg Organizer Advanced",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "reg-organizer",
+    "reg-windows",
+    "system-tools-desktop",
+    "how-to-install-reg",
+    "reg-organizer-desktop-package",
+    "reg-workspace",
+    "reg-organizer-pro-tools",
+    "reg-suite",
+    "zentool-reg",
+    "reg-organizer-tool-9"
+  ],
+  "site": "zentool.art"
+}
